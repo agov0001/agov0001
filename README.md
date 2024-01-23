@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @agov0001
-- 👀 I’m interested in all things congnitive computing
-- 🌱 I’m currently learning a bit about cloud and a bit about IoT
-- 💞️ I’m looking to collaborate on C, D and python projects related to AI, signal processing, communication 
+- 👀 I’m interested in all things cognitive computing
+- 🌱 I’m learning about cloud and about IoT
+- 💞️ I’m looking to collaborate on Python, Java, C and D projects related to AI, signal processing, communication 
 - 📫 you can reach me on gmail as agov0001 or on reliancy as amer 
 
 <!---
